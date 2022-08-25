@@ -1,13 +1,13 @@
-Hi there 👋
+<h1> Hi there 👋 </h1>
 
-I’m Alex
+<h2> I’m Alex </h2>
 
-- 🌱 I’m currently learning FastAPI
-- 🔭 My web projects:
-
-
+<li> 🌱 I’m currently learning FastAPI </li>
+<li> 🔭 My web projects: </li>
+<p> </p>
 📫 How to reach me:
-
-1. https://vk.com/greeshanka
-2. tg - @greeshanka
-
+<p> </p>
+<ol>
+<li> https://vk.com/greeshanka </li>
+<li> tg - @greeshanka </li>
+</ol>
