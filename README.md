@@ -8,6 +8,6 @@
 📫 How to reach me:
 <p> </p>
 <ol>
-<li> https://vk.com/greeshanka </li>
-<li> tg - @greeshanka </li>
+<li> <a href="https://vk.com/greeshanka">VK</a> </li>
+<li> <a href="https://t.me/greeshanka">TG</a> </li>
 </ol>
