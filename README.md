@@ -18,7 +18,6 @@
 <li> 🔭 My web projects: </li>
 
 
-<details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greeshanka&layout=compact&theme=dark" />  
@@ -26,4 +25,3 @@
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=greeshanka&show_icons=true&theme=dark" />
    <br>
   </p>
-</details>
