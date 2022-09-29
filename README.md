@@ -1,11 +1,11 @@
 <p align="center">
-<img width="333" src="—Pngtree—hand painted technology programmer character_3838349.png" alt="snake"/>
+<img width="256" src="—Pngtree—hand painted technology programmer character_3838349.png" alt="snake"/>
 </p>
 <h1 align="center">Hi there 👋 I’m Alex </h1>
 
 <h3 align="center">Python Developer</h3>
 <p align="center">
- <a href="https://www.youtube.com/channel/UCNrRkCTcOGKAvg45I-hX-3g"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white"/></a>
+ <a href="https://vk.com/greeshanka"><img src="https://img.shields.io/badge/-VK-red?style=flat&logo=VK&logoColor=white"/></a>
  <a href="https://t.me/greeshanka"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
  <br>
 
