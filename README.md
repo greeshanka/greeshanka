@@ -15,12 +15,12 @@
 
 
 <li> 🌱 I’m currently learning FastAPI and Django </li>
-<li> 🔭 My web projects:
-
- <ul>
- < href="https://github.com/greeshanka/django_project_site"><img src="https://img.shields.io/github/watchers/greeshanka/django_project_site?style=social">  </a>
- </ul>
-</li>
+<li> 🔭 My web projects:</li>
+<br>
+<ul>
+ <li><a href="https://github.com/greeshanka/django_project_site"><img src="https://img.shields.io/github/watchers/greeshanka/django_project_site?style=social"></a> <b>django_project_site</b></li> 
+ <li><a href="https://github.com/greeshanka/blog_for_you"><img src="https://img.shields.io/github/watchers/greeshanka/django_project_site?style=social"></a> <b>blog_for_you</b></li> 
+</ul>
 
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
