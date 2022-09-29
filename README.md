@@ -10,26 +10,20 @@
 <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+
+<li> 🌱 I’m currently learning FastAPI and Django </li>
+<li> 🔭 My web projects: </li>
+
+
 [<h2>🖥My projects</h2>](markdown/main.md)
 [<h2>📋My it manuals](https://github.com/BaggerFast/ItManuals)
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&layout=compact&theme=dark" />  
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greeshanka&layout=compact&theme=dark" />  
    <br>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BaggerFast&show_icons=true&theme=dark" />
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=greeshanka&show_icons=true&theme=dark" />
    <br>
    <img src="https://metrics.lecoq.io/baggerfast" />
   </p>
 </details>
-
-
-<li> 🌱 I’m currently learning FastAPI and Django </li>
-<li> 🔭 My web projects: </li>
-<p> </p>
-📫 How to reach me:
-<p> </p>
-<ol>
-<li> <a href="https://vk.com/greeshanka">VK</a> </li>
-<li> <a href="https://t.me/greeshanka">TG</a> </li>
-</ol>
