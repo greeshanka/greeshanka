@@ -1,5 +1,5 @@
 <p align="center">
-<img width="600" src="—Pngtree—hand painted technology programmer character_3838349.png" alt="snake"/>
+<img width="333" src="—Pngtree—hand painted technology programmer character_3838349.png" alt="snake"/>
 </p>
 <h1 align="center">Hi there 👋 I’m Alex </h1>
 
