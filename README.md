@@ -15,8 +15,6 @@
 <li> 🔭 My web projects: </li>
 
 
-[<h2>🖥My projects</h2>](markdown/main.md)
-[<h2>📋My it manuals](https://github.com/BaggerFast/ItManuals)
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
@@ -24,6 +22,6 @@
    <br>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=greeshanka&show_icons=true&theme=dark" />
    <br>
-   <img src="https://metrics.lecoq.io/baggerfast" />
+   <img src="https://metrics.lecoq.io/greeshanka" />
   </p>
 </details>
