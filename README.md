@@ -15,7 +15,9 @@
 
 
 <li> 🌱 I’m currently learning FastAPI and Django </li>
-<li> 🔭 My web projects: </li>
+<li> 🔭 My web projects:
+<a href="[https://vk.com/greeshanka](https://github.com/greeshanka/django_project_site)"><img src="https://img.shields.io/badge/-github-blue?style=flat&logo=github&logoColor=white"/></a>
+</li>
 
 
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
