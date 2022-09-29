@@ -1,3 +1,6 @@
+<p align="center">
+<img width="600" src="github-snake.svg" alt="snake"/>
+</p>
 <h1 align="center">Hi there 👋 I’m Alex </h1>
 
 <h3 align="center">Python Developer</h3>
