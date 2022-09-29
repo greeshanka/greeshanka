@@ -7,7 +7,7 @@
  <br>
 
 <p align="center">
-<img width="600" src="assets/github-snake.svg" alt="snake"/>
+<img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
 
@@ -22,6 +22,5 @@
    <br>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=greeshanka&show_icons=true&theme=dark" />
    <br>
-   <img src="https://metrics.lecoq.io/greeshanka" />
   </p>
 </details>
