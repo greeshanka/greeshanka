@@ -6,7 +6,7 @@
 <h3 align="center">Python Developer</h3>
 <p align="center">
  <a href="https://vk.com/greeshanka"><img src="https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white"/></a>
- <a href="https://img.shields.io/github/watchers/greeshanka/django_project_site"><img src="https://img.shields.io/github/watchers/greeshanka/django_project_site?style=social"></a>
+ <a href="https://t.me/greeshanka"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
  <br>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <li> 🌱 I’m currently learning FastAPI and Django </li>
 <li> 🔭 My web projects:
-<a href="https://github.com/greeshanka/django_project_site"><img src="https://img.shields.io/badge/-github?style=flat&logo=github&logoColor=white](https://img.shields.io/github/watchers/greeshanka/django_project_site?style=social)"/></a>
+<a href="https://img.shields.io/github/watchers/greeshanka/django_project_site"><img src="https://img.shields.io/github/watchers/greeshanka/django_project_site?style=social"></a>
 </li>
 
 
