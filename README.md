@@ -18,7 +18,7 @@
 <li> 🔭 My web projects:
 <br>
 
-<a href="https://github.com/greeshanka/django_project_site"><img src="https://img.shields.io/github/watchers/greeshanka/django_project_site?style=social"></a>
+<a href="https://github.com/greeshanka/django_project_site"><img src="https://img.shields.io/github/django_project_site/greeshanka/django_project_site?style=social"></a>
 </li>
 
 
