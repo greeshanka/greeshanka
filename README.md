@@ -16,11 +16,11 @@
 
 <li> 🌱 I’m currently learning FastAPI and Django </li>
 <li> 🔭 My web projects:
-<br>
 
-<a href="https://github.com/greeshanka/django_project_site"><img src="https://img.shields.io/github/watchers/greeshanka/django_project_site?style=social"></a>
+ <ul>
+ < a href="https://github.com/greeshanka/django_project_site"><img src="https://img.shields.io/github/watchers/greeshanka/django_project_site?style=social">  </a>
+ </ul>
 </li>
-
 
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
