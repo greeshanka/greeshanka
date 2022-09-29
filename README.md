@@ -6,7 +6,7 @@
 <h3 align="center">Python Developer</h3>
 <p align="center">
  <a href="https://vk.com/greeshanka"><img src="https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white"/></a>
- <a href="https://img.shields.io/github/watchers/greeshanka/django_project_site"></a>
+ <a href="https://img.shields.io/github/watchers/greeshanka/django_project_site"><img src="https://img.shields.io/github/watchers/greeshanka/django_project_site?style=social"></a>
  <br>
 
 <p align="center">
