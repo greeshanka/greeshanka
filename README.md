@@ -21,11 +21,3 @@
  <li><a href="https://github.com/greeshanka/django_project_site"><img src="https://img.shields.io/github/watchers/greeshanka/django_project_site?style=social"></a> <b>django_project_site</b></li> 
  <li><a href="https://github.com/greeshanka/blog_for_you"><img src="https://img.shields.io/github/watchers/greeshanka/django_project_site?style=social"></a> <b>blog_for_you</b></li> 
 </ul>
-
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  <p>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greeshanka&layout=compact&theme=dark" />  
-   <br>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=greeshanka&show_icons=true&theme=dark" />
-   <br>
-  </p>
